@@ -1,0 +1,8 @@
+uint32 id
+bool is_canfd
+uint32 dlc
+uint8[] data
+
+---
+
+bool result
