@@ -1,6 +1,6 @@
 
 
-# kvaser_can_rospkg
+# kvaser_can_rospkg  [![License](https://img.shields.io/static/v1?label=License&message=GPLv3&color=green)](http://www.gnu.org/licenses/gpl-3.0.html)
 
 *You can utilize this ROS package to integrate Kvaser CAN/CAN FD devices into the ROS environment..*
 
