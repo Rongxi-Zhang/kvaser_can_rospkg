@@ -11,6 +11,7 @@
 
 ## Dependencies
 :one:: Ubuntu 20.04  (ROS1 Noetic)
+
 :two:: [Kvaser Linux Drivers and SDK](https://www.kvaser.com/download/?utm_source=software&utm_ean=7330130980754&utm_status=latest)
 
 ❗️ Linux drivers and SDK for most Kvaser devices. For using Kvaser proprietary API. Do not install if using SocketCAN.
@@ -106,7 +107,7 @@ Card 0:
 </launch>
 ```
 
-:three:: **Execute the launch file. **
+:three:: **Execute the launch file.**
 
 ```shell
 roslaunch kvaser_can_rospkg kvasercan_bridge.launch
